@@ -1,58 +1,66 @@
-# 👋 Hey there! I'm Sadman
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfuU5FC0nkl/giphy.gif" width="200" />
-
-### 🚀 About Me
-- 💻 **Passionate Developer** | Problem Solver | Tech Enthusiast
-- 🎯 Currently mastering **Full-Stack Development**
-- 🌍 Open to collaborating on **exciting projects**
-- 📧 Reach out: **sadmanshovik@yahoo.com**
-
----
-
-### 🛠️ Tech Stack
-```
-Languages:   JavaScript, Python, Java, C++
-Frontend:    React, HTML5, CSS3, Tailwind CSS
-Backend:     Node.js, Express, Django
-Databases:   MongoDB, PostgreSQL, MySQL
-Tools:       Git, VS Code, Linux, Docker
-```
-
----
-
-### 💡 What I'm Into
-- 🔐 **Cybersecurity & Hacking** (Ethical)
-- 📱 **Web Development**
-- 🤖 **Problem-Solving**
-- 🎮 **Open Source Contributions**
-
----
-
-### 📊 GitHub Stats
-![Sadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadman-TheDentian&theme=dark&show_icons=true)
-
----
-
-### 🔗 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadman-TheDentian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadmanshovik@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
----
-
-### 🎓 Currently Learning
-- 🔄 Advanced JavaScript & TypeScript
-- 🌐 Full-Stack Web Development
-- ⚙️ System Design & Algorithms
-- 🔐 Cybersecurity Fundamentals
-
----
-
-⭐ *"Code is poetry written for computers"*
-
-```
-┌─────────────────────────────────┐
-│  Let's build something amazing   │
-└─────────────────────────────────┘
-```
+<img width="1144" height="536" alt="dark_mode" src="https://github.com/user-attachments/assets/ec5637f1-7a96-4306-9bef-fa856ae5268f" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1144" height="536" viewBox="0 0 1144 536" role="img" aria-label="ASCII GitHub profile card for Sadman-TheDentian">
+  <rect x="0.5" y="0.5" width="1143" height="535" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="34.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="44.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="53.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="63.400000000000006" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="73" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="82.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="92.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="101.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="111.39999999999999" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="121" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="130.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="140.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="149.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooowwwooooooooooooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="159.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooo\: :''::'-:!!xoooooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="169" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooooowwnn--~           :`!1xoooooooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="178.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooIj: :                  :!==aooooooooooooooooooooooooooooooooooooooooox</text>
+  <text x="28" y="188.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooo| .:    .    _.            :[nnooooooooooooooooooooooooooooooooooooooo</text>
+  <text x="28" y="197.79999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooo|  :.   :      ..:_.       !: |xoooooooooooooooooooooooooooooooooooxox</text>
+  <text x="28" y="207.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooop. ::  :     .__/:j_:         |aooooooooooooooooooooooooooooooooooooxo</text>
+  <text x="28" y="217" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooo|   ._::iggg@@@nxxxjj;: :    |oooooooooooooooooooooooooooooooxoxoxoxx</text>
+  <text x="28" y="226.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooy:   !\gog@@@@@@@@@@@/jc      xoooooooooooooooooooooooooooooxoooxoxoox</text>
+  <text x="28" y="236.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooj   |gm$$o@woooo@ggggoop::    xoooooooooooooooooooooooooooxoxxxoxoxoxx</text>
+  <text x="28" y="245.79999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooo|  |ogo@oo@@@@g@@@@@@@o| --. oooooooooooooooooooooooooooxooooxoxxxxxx</text>
+  <text x="28" y="255.39999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooo_;|@@@@@@g@@g@@@@@@@@@||@@|iooooooooooooooooooooooooxoooxxxoxxxoxxxx</text>
+  <text x="28" y="265" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooo@||@@@@Uwgggg@oUQ@@@@o||@@pooooooooooooooooooooooooooxoxoxxxxoxxxxxx</text>
+  <text x="28" y="274.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooog|q@@@q@o@@@@@@@g@@@op||@@wooooooooooooooooooooooxoxoxoxxoxxxxxxxxxx</text>
+  <text x="28" y="284.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooo[o@o@@@@o@@@@@@@opx(  @&amp;amp;xoooxoxoooooooooooooxoooxoxoxoxxoxoxxxxxxx</text>
+  <text x="28" y="293.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooo!/onaU-$ooow}=:!+l:  |xooxoooooooooooooooooooxoxoxxxxxoxxxxxxxxxxx</text>
+  <text x="28" y="303.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooo|:':::::==::: :  :  .xoooooooxoxooooooooooxooooxxoxoxxxxxxxxxxxxxx</text>
+  <text x="28" y="313" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooooooou/:::::     :   \\ojxooxoxoooooooooooxoxooxoxoxxxxxxxxxxxxxxxxxxx</text>
+  <text x="28" y="322.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooooooooxx;.   _-----\g@@oyioooxoooooooxoooooooxoxoxxoxoxxxxxxxxxxxxxxxx</text>
+  <text x="28" y="332.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooxui@@@@@@@@@@@@opxxxooxoxoxooxxxxxxxxooooxxxxxxxxxxxxxxxxxxxx</text>
+  <text x="28" y="341.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooooooooooooxx@@@@@@@@@@@@@\^': '&quot;^--':::      :-{xxoxoxxxxxxxxxxxxxxxxx</text>
+  <text x="28" y="351.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooxo@@@@@@@@@\\          :: : ::::     '/xxxxxxxxxxxxxxxxxxxx</text>
+  <text x="28" y="361" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">oooooooooooooooooooooooooooooooooooooooooxo@@@@@@\\:          :: :: ::::::  ::: !/xxxxxxxxxxxxxxxxxx</text>
+  <text x="28" y="370.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooooooooooxooxoo@@\\   :::  :     : ::: ::::::  :::  :'/xxxxxxxxxxxxxxxx</text>
+  <text x="28" y="380.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooooooooxooxoxZ+' : ::: :   :      :::: ::::::::::::   :[xxxxxxxxxxxxxxx</text>
+  <text x="28" y="389.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooooooooooooooooxoxoxoxoxo}`:::::: : ::  :     : :::::::::: ::::: :   :!xxxxxxxxxxxxxx</text>
+  <text x="28" y="399.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">ooooooooooooooooxoxoxoxoxoxoxoooxoxoxxx\`  :: ::: : :   : :   : :::: :::: ::::::: :  :/xxxxxxxxxxxxx</text>
+  <text x="28" y="409" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xoooooooxoxooxxoooxoooxoxoxoxxxoxxxxxo\: : :: ::: :: ::: : ::::::::: :::: ::::::: ::  :/xxxxxxxxxxxx</text>
+  <text x="28" y="418.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xooxoxoooooxoxoxxoxxxoxxxxxxoxxxxxxx\: :  :: : ::: : : ::::::::::::::::::::::::::: ::  :/xxxxxxxxxxx</text>
+  <text x="28" y="428.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xoooxoxxxxxoxoxoxoxoxxxxxxxxxxxxxx\`  : : ::: :: ::: ::: :::::::::::: :::::::::::: :::  :/xxxxxxxxxx</text>
+  <text x="28" y="437.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xoxoxxoxoxxxxxxxxxxxxoxxxxxxxxxx}'  :: : ::: ::::::: : :::::::::::::: :::::::::::::: ::   |xxxxxxxxx</text>
+  <text x="28" y="447.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xooxoxoxxoxoxxxxxxxxxxxxxxxxxx}'  :  :: : :: ::::::: :::: ::::::::::: ::::::::::::::::::   |xxxxxxxx</text>
+  <text x="28" y="457" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xxxxxxxoxxxxxxxxxxxxxxxxxxxxx\    : : ::::::::::::::: :::::::::::::::: ::::::::::::: : ::   |xxxxxxx</text>
+  <text x="28" y="466.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xxoxxxxxxxxxxxxxxxxxxxxxxxxx    :  : : : : : ::::::::::::::::::::::::: :::::::::::::::::::   ixxxxxx</text>
+  <text x="28" y="476.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xxxxxxxxxxxxxxxxxxxxxxxxxxx|    :: :: ::::::::::::::::::::::::::::::::: :::::::::::::::::::  'xxxxxx</text>
+  <text x="28" y="485.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">xjjjxxxxxxxxxxxxxxxxxxxxxxy     : : :: :::: ::::::::::::::::::::::::::: ::::::::::::::::::::: !xxxxx</text>
+  <text x="28" y="495.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjxxxxxjxxxxxxxxxxxxxxx|      : : :: ::::::::::::::::::::::::::::::: :::::::::::::::: :: :: !xxxx</text>
+  <text x="28" y="505" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">jjjjjjjxjjxxxxxxxxxxxxxxxx|   : : ::::::::::::::::::::::::::::::::::::::  ::::::::::::::: ::: : !jxx</text>
+  <text x="559.2" y="143" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Sadman-TheDentian@github </tspan><tspan fill="#3d444d">───────────────────────────────</tspan></text>
+  <text x="559.2" y="163" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> 5 years, 5 months, 12 days</tspan></text>
+  <text x="559.2" y="183" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">.......................................</tspan><tspan fill="#c9d1d9"> Earth</tspan></text>
+  <text x="559.2" y="203" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Company: </tspan><tspan fill="#484f58">............................</tspan><tspan fill="#c9d1d9"> @DentiSystems-HQ </tspan></text>
+  <text x="559.2" y="223" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">......................................</tspan><tspan fill="#c9d1d9"> Shell</tspan></text>
+  <text x="559.2" y="263" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">────────────────────────────────────────────────</tspan></text>
+  <text x="559.2" y="283" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> https://www.denti.systems</tspan></text>
+  <text x="559.2" y="303" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Twitter: </tspan><tspan fill="#484f58">..............................</tspan><tspan fill="#c9d1d9"> @MDSadmanShovik</tspan></text>
+  <text x="559.2" y="323" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">..................</tspan><tspan fill="#c9d1d9"> github.com/Sadman-TheDentian</tspan></text>
+  <text x="559.2" y="363" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
+  <text x="559.2" y="383" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 2</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
+  <text x="559.2" y="403" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 17</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 3</tspan></text>
+</svg>
